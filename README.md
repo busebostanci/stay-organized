@@ -1,7 +1,7 @@
 # stay-organized
 Stay Organized, One Task at a Time! 
 
-# Task Tracker Application
+# Stay Organized Application
 
 Welcome to the Stay Organized Application, a Python-based command-line tool for managing tasks and practicing your coding skills.
 
