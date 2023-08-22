@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Complete Project Proposal",
+        "description": "Write a detailed proposal for the project.",
+        "completed": false
+    },
+    {
+        "title": "Implement User Authentication",
+        "description": "Add user registration and login functionality.",
+        "completed": true
+    },
+    {
+        "title": "Design User Interface",
+        "description": "Create a user-friendly interface for the application.",
+        "completed": false
+    }
+]
