@@ -3,7 +3,7 @@ Stay Organized, One Task at a Time!
 
 # Task Tracker Application
 
-Welcome to the Task Tracker Application, a Python-based command-line tool for managing tasks and practicing your coding skills.
+Welcome to the Stay Organized Application, a Python-based command-line tool for managing tasks and practicing your coding skills.
 
 ## Features
 
